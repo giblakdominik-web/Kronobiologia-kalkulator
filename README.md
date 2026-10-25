@@ -1,1 +1,1 @@
-# Kronobiologia-kalkulator
+# Kronobiologiai Bioritmus kalkulátor
